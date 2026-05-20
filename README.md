@@ -1,6 +1,7 @@
 
 Los programas se deben inicializar en el sistema operativo Linux.
-Ademas, para poder correr los programas de fortran se debe tener instalada la libreria de LoopTools se debe colocar.
+
+Ademas, para poder correr los programas de fortran se debe tener instalada la libreria de LoopTools.
 
 Para compilar el programa que se desee, se debe usar el comando:
 
