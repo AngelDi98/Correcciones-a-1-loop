@@ -1,10 +1,20 @@
+# Master's Thesis
 
-Los programas se deben inicializar en el sistema operativo Linux.
+This repository contains my Master's Thesis in Industrial Physics Engineering.
 
-Ademas, para poder correr los programas de fortran se debe tener instalada la libreria de LoopTools.
+## Topics
 
-Para compilar el programa que se desee, se debe usar el comando:
+- Quantum Field Theory
+- Perturbation Theory
+- One-loop Corrections
+- Hadronic Decays
+- Scientific Computing
+- Mathematical Physics
 
-gfortran -O3 polylog_module.f90 correccion_scalar.f90 $HOME/looptools/lib64/libooptools.a -o correccion_scalar
+## Skills Demonstrated
 
-cambiando el nombre del programa y la ruta escrita.
+- Mathematical Modeling
+- Numerical Methods
+- Scientific Research
+- Technical Writing
+- Data Analysis
